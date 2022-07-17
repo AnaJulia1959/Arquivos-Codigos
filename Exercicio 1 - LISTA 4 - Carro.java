@@ -1,5 +1,5 @@
-# Arquivos-Codigos
-Altere o construtor da classe carro para que ele inicie o tanque com 0.
+#Arquivos-Codigos
+//Altere o construtor da classe carro para que ele inicie o tanque com 0.
 
 public class carro{
 	private String marca;
